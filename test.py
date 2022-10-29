@@ -13,7 +13,6 @@ def test():
 def greeting(name: str):
     return "Hello word " + name
 
-#Here we execute the server on port 5000 to can use the webs service 
+#Here we execute the server on port 5000 to can use the webs service
 if __name__ == '__main__':
     app.run()
- 
